@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+.row no-gutters{
+   
+}
+
+#main-header img{
+
+    width: 100%;
+    height:100%;
+}
+
+
+#main-header .port-item{
+
+width:50%;
+
+}
